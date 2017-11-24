@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	background-image: url(../images/Blocks1.png);
+	background-image: opacity: 0.5;
+	background-color: rgba(0,0,0,0.5);
+	background-size: cover;
+	font-family: Helvetica, Sans-serif;
+	color: #fff;
+}
+
+head {
+	font-family: Helvetica, Sans-serif;
+	text-decoration: none;
+}
+
+h1 {
+	text-transform: uppercase;
+}
